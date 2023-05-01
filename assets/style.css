@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    width: 100%;
+    height: 120px;
+    background-color: #DDF0FF;
+    color: #04348E;
+}
+
+h1, h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: Helvetica;
+}
+
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid #8BBAE1;
+    box-shadow: 5px 10px #2F6BA0;
+    padding: 20px;
+    font-family: Helvetica;
+}
